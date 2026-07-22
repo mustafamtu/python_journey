@@ -35,6 +35,6 @@ email = "info@sadikturan.com"
 username = "sadikturan"
 password = "12345"
 
-sonuc = (email == "info@sadikturan.com" or username == "sadikturan") and (password == "12345")
+sonuc = (email == "info@sadikturan.com" or username ==  "sadikturan") and (password == "12345")
 
 print(sonuc)
