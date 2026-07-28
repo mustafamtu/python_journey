@@ -35,4 +35,9 @@
 
 # 4- Klavyeden girişi istenen username bilgisi için boşluk girildiği sürece tekrar username girişi isteyiniz.   
 
-# ??? 
+# username = ""
+
+# while not username:
+#     username = input("Kullanıcı Adı Giriniz: ")
+
+# print(f"Kullanıcı Adı: {username}")
