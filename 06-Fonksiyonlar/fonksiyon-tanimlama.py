@@ -4,10 +4,10 @@ def selamlama():
 
 # selamlama()
 
-a = 10
-b = 20
-def toplama():
 
+def toplama():
+    a = 10
+    b = 20
     print(a+b)
 
 toplama()
