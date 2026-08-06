@@ -1,1 +1,2 @@
 mustafa mutlu:90,80,50
+ahmet demir:50,40,30
