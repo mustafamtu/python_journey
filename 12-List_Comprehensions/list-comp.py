@@ -3,11 +3,13 @@ sayilar = []
 for i in range(5):
     sayilar.append(i)
 
+print(sayilar)
+
 sayilar2 = [i for i in range(5)]
 
 print(sayilar2)
 
-kurum = 'BTK Akademi'
+kurum = "BTK Akademi"
 
 for i in kurum:
     print(i.upper())
