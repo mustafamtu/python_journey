@@ -13,7 +13,16 @@ for sayi in sayilar:
 
 print(sonuc)
 
-sonuc = [sayi for sayi in sayilar if(sayi % 2 == 0)]
+sonuc = [sayi for sayi in sayilar if (sayi % 2 == 0)]
+sonuc = [sayi if sayi % 2 == 0 else "tek sayı "for sayi in sayilar]
 
+urun_fiyatlari = [3000,1000,4000,5000]
+vergiler = []
 
-print(sonuc)
+for fiyat in urun_fiyatlari:
+    if(fiyat >= 1000):
+        vergiler.append(fiyat * 1.25)
+
+vergiler = [fiyat * 1.20 for fiyat in urun_fiyatlari if (fiyat >= 1000)]
+
+print(vergiler)
