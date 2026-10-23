@@ -1,12 +1,12 @@
-# 🐍 Python Journey
+# Python Journey
 
-Bu depo, sıfırdan başlayıp ileri seviye yazılım mimarilerine, nesne yönelimli programlamaya ve uygulamalı yapay zekâ (Applied AI) mühendisliğinin temelini oluşturan modern Python pratiklerine uzanan kişisel öğrenme ve kodlama sürecimi içermektedir.
+Bu depo, sıfırdan başlayıp ileri seviye yazılım mimarilerine, nesne yönelimli programlamaya ve uygulamalı yapay zekâ mühendisliğinin temelini oluşturan modern Python pratiklerine uzanan kişisel öğrenme ve kodlama sürecimi içermektedir.
 
-Tüm içerikler modüler klasör yapısında, temiz kod (clean code) prensipleri ve uygulamalı scriptler üzerinden yapılandırılmıştır.
+Tüm içerikler modüler klasör yapısında, temiz kod prensipleri ve uygulamalı scriptler üzerinden yapılandırılmıştır.
 
 ---
 
-## 📂 Müfredat & Dizin Yapısı
+## Müfredat & Dizin Yapısı
 
 | # | Konu / Modül | Odak & Kapsam |
 |---|---|---|
@@ -31,3 +31,4 @@ Temel ve orta seviye modüllerin tamamlanmasının ardından depo, **İleri Sevi
 
 ---
 **Geliştirici:** [Mustafa Mutlu](https://github.com/mustafamtu)
+
