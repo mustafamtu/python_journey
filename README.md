@@ -6,7 +6,7 @@ Tüm içerikler modüler klasör yapısında, temiz kod prensipleri ve uygulamal
 
 ---
 
-## Müfredat & Dizin Yapısı
+## Müfredat 
 
 | # | Konu / Modül | Odak & Kapsam |
 |---|---|---|
@@ -25,7 +25,7 @@ Tüm içerikler modüler klasör yapısında, temiz kod prensipleri ve uygulamal
 
 ---
 
-## 🎯 Hedef & Sonraki Adımlar
+## Hedef 
 
 Temel ve orta seviye modüllerin tamamlanmasının ardından depo, **İleri Seviye Python** pratikleriyle (Decorators, Iterators & Generators, Asynchronous Programming `asyncio`, API/HTTP Requests ve Production-ready mimariler) genişletilmeye devam etmektedir.
 
