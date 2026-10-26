@@ -22,6 +22,7 @@ Tüm içerikler modüler klasör yapısında, temiz kod prensipleri ve uygulamal
 | **10** | `10-Moduller` | Yerel ve harici paket yönetimi, `pip`, import mekanizmaları |
 | **11** | `11-Veritabani` | SQLite / MySQL bağlantıları, CRUD işlemleri ve sorgular |
 | **12** | `12-List_Comprehensions` | Tek satırda veri işleme, koşullu filtreleme, bellek optimizasyonu |
+| **13** | `13-Lambda` | Tek satırda fonksiyon yazma |
 
 ---
 
