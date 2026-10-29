@@ -23,10 +23,11 @@ Tüm içerikler modüler klasör yapısında, temiz kod prensipleri ve uygulamal
 | **11** | `11-Veritabani` | SQLite / MySQL bağlantıları, CRUD işlemleri ve sorgular |
 | **12** | `12-List_Comprehensions` | Tek satırda veri işleme, koşullu filtreleme, bellek optimizasyonu |
 | **13** | `13-Lambda` | Tek satırda fonksiyon yazma,’map’,’filter’ kullanımı |
+| **14** | `14-İleri OOP` |
 
 ---
 
-## Hedef 
+# Hedef 
 
 Temel ve orta seviye modüllerin tamamlanmasının ardından depo, **İleri Seviye Python** pratikleriyle (Decorators, Iterators & Generators, Asynchronous Programming `asyncio`, API/HTTP Requests ve Production-ready mimariler) genişletilmeye devam etmektedir.
 
